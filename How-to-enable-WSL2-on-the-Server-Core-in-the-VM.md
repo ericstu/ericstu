@@ -1,4 +1,4 @@
-# 在Server Core 啟用WSL2
+# 在VM的Windows Server Core裡啟用WSL2
 
 ### 啟用VM的巢狀虛擬化
 
@@ -44,7 +44,7 @@ c:\wsl_update_x64.msi
 ```
 會有畫面出來讓你按下一步(我還以為Server Core都沒有UI咧)。
 
-![](https://i.imgur.com/UoViujk.png)
+![](https://cdn.jsdelivr.net/gh/ericstu/ericstu/images/kslNXcK.png)
 
 安裝完成之後重新開機
 ```powershell
@@ -108,3 +108,5 @@ PS C:\Ubuntu> wsl -l -v
 1.[Enable the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-on-server)
 
 2.[Windows 10 上適用於 Linux 的 Windows 子系統安裝指南](https://docs.microsoft.com/zh-tw/windows/wsl/install-win10)
+
+###### tags: `Windows Server 2004` `Windows Server Core` `WSL2`
