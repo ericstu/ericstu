@@ -31,5 +31,17 @@ Set-location c:\
 
 然後存檔就可以了
 
-![](https://i.imgur.com/0Yt6exy.png)
+![](https://cdn.jsdelivr.net/gh/ericstu/ericstu/images/ifn2MHv.png)
 
+
+
+
+---
+
+參考資料:
+
+1.[https://docs.microsoft.com/zh-tw/powershell/scripting/windows-powershell/ise/how-to-use-profiles-in-windows-powershell-ise?view=powershell-7.1](https://docs.microsoft.com/zh-tw/powershell/scripting/windows-powershell/ise/how-to-use-profiles-in-windows-powershell-ise?view=powershell-7.1)
+
+2.[https://docs.microsoft.com/zh-tw/powershell/scripting/samples/managing-current-location?view=powershell-7.1](https://docs.microsoft.com/zh-tw/powershell/scripting/samples/managing-current-location?view=powershell-7.1)
+
+###### tags: `Windows Server Core` `Powershell`
