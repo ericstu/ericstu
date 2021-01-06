@@ -71,7 +71,7 @@ https://stackoverflow.com/questions/17861424/webresource-axd-not-working-with-in
 ![](https://cdn.jsdelivr.net/gh/ericstu/ericstu/images/20210105103045.png)
 
 #### 選擇"根據選取請求標頭的快取" --> "白名單" --> 允許名單標頭-"新增自訂"
-![](https://cdn.jsdelivr.net/gh/ericstu/ericstu/images/20210105103156.png =500x)
+![](https://cdn.jsdelivr.net/gh/ericstu/ericstu/images/20210105103156.png)
 
 #### 把User-Agent加到白名單裡
 ![](https://cdn.jsdelivr.net/gh/ericstu/ericstu/images/20210105103232.png)
